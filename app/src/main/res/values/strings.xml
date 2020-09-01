@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LocalizarCoche</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="localizacion">Localización</string>
+
+    <string name="ultimasUbicaciones">ÚLTIMAS UBICACIONES</string>
+
+    <string name="nombreDispositivo">Nombre Dispositivo</string>
+    <string name="fechaDispositivo">Fecha Dispositivo</string>
+
+    <string name="Mostrar">Mostrar</string>
+    <string name="Eliminar">Eliminar</string>
+    <string name="volver">Volver</string>
+    <string name="abrirMaps">Abrir en Maps</string>
+
+
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="referencia">Icon made by Vitaly Gorbachev from www.flaticon.com</string>
+
+
+</resources>
