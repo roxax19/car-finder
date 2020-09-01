@@ -24,4 +24,4 @@ The app consists on two Activities: MainActivity, where we can find a list with 
 
 # Main problems solved
 - It was necessary to store locations while the app was on background. For fulfilling this purpose, a receiver was added to “AndroidManifest.xml”.
-- It was necessary a Google Maps API Key to show the location on screen. It can be obtained by following the steps on: https://developers.google.com/maps/documentation/android-sdk/start#get-key
+- A Google Maps API Key was needed to show the location on screen. It was obtained by following the steps on: https://developers.google.com/maps/documentation/android-sdk/start#get-key
