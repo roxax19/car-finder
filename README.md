@@ -23,5 +23,5 @@ The app consists on two Activities: MainActivity, where we can find a list with 
 ![Alt text](screenshots/screenshot2.jpg?raw=true "Screenshot 2")
 
 # Main problems solved
-- It was necessary to store locations while the app was on background. For fulfilling this purpose, a receiver was added to “AndroidManifest.xml”.
+- It was necessary to store locations while the app was on background. In order to fullfil this purpose, a receiver was added to “AndroidManifest.xml”.
 - A Google Maps API Key was needed to show the location on screen. It was obtained by following the steps on: https://developers.google.com/maps/documentation/android-sdk/start#get-key
