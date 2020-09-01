@@ -10,8 +10,9 @@ The main goal is to locate our vehicle using a strategy that involves low batter
 Check the location services when a Bluetooth device is disconnected form the vehicle hands-free function.
 
 # Functionalities
-Database to store locations.
-Map to display the location.
+- Database to store locations.
+
+- Map to display the location.
 
 # Design
 The design of the app matches those functionalities.
