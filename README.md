@@ -19,7 +19,8 @@ The design of the app matches those functionalities.
 
 The app consists on two Activities: MainActivity, where we can find a list with the stored locations, and MapsActivity, where the selected location is shown to the user.
 
-![Alt text](screenshots/Imagen1.jpg?raw=true "Title")
+![Alt text](screenshots/screenshot1.jpg?raw=true "Screenshot 1")
+![Alt text](screenshots/screenshot2.jpg?raw=true "Screenshot 2")
 
 # Main problems solved
 - It was necessary to store locations while the app was on background. For fulfilling this purpose, a receiver was added to “AndroidManifest.xml”.
